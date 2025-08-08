@@ -23,7 +23,7 @@ Features
 
 Installation
 1. Clone the repository  
-   git clone https://github.com/yourname/repo-name.git
+   git clone https://github.com/Charanlokesh22/repo-name.git
 
 2. Navigate to the project directory  
    cd repo-name
