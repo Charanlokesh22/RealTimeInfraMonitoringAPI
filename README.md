@@ -27,23 +27,23 @@ Tech Stack:
 5)Others: Python Logging, Pydantic for validation
 
 
+
+
 Setup Instructions :-
 
 Clone the repository
-
--git clone https://github.com/Charanlokesh22/real-time-monitoring-api.git
+git clone https://github.com/Charanlokesh22/real-time-monitoring-api.git
 cd real-time-monitoring-api
 
 
 Create virtual environment
-
--python -m venv venv
+python -m venv venv
 source venv/bin/activate  # For Windows: venv\Scripts\activate
 
 
 Install dependencies
--pip install -r requirements.txt
--Configure environment variables
+pip install -r requirements.txt
+Configure environment variables
 
 
 Create a .env file with:
@@ -59,30 +59,3 @@ uvicorn main:app --reload
 
 
 
-Setup Instructions :-
-
-Clone the repository
-
--git clone https://github.com/Charanlokesh22/real-time-monitoring-api.git
-cd real-time-monitoring-api
-
-
-Create virtual environment
-
--python -m venv venv
-source venv/bin/activate  # For Windows: venv\Scripts\activate
-
-
-Install dependencies
--pip install -r requirements.txt
--Configure environment variables
-
-
-Create a .env file with:
-
-MONGO_URI=your_mongo_connection_string
-JWT_SECRET=your_jwt_secret_key
-
-
-Run the application
-uvicorn main:app --reload
