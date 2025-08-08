@@ -20,11 +20,11 @@ Features :
 
 
 Tech Stack:
-Backend Framework: FastAPI (Python)
-Database: MongoDB
-Security: JWT, OAuth2
-Testing Tools: Postman
-Others: Python Logging, Pydantic for validation
+1)Backend Framework: FastAPI (Python)
+2)Database: MongoDB
+3)Security: JWT, OAuth2
+4)Testing Tools: Postman
+5)Others: Python Logging, Pydantic for validation
 
 
 Setup Instructions :-
