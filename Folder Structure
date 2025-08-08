@@ -1,0 +1,12 @@
+RealTimeInfraMonitoringAPI/
+│
+├── app/
+│   ├── main.py
+│   ├── models.py
+│   ├── database.py
+│   ├── auth.py
+│   └── monitor.py
+│
+├── .env
+├── requirements.txt
+└── README.md
