@@ -12,30 +12,19 @@ This project simulates and tracks the performance metrics of infrastructure comp
 
 Features
 
-1)System Metrics Monitoring: Continuously tracks CPU usage, memory usage, and response time for simulated agents.
-
-2)Intelligent Alerting: Sends alerts when thresholds are breached for proactive incident response.
-
-3)Secure API: JWT authentication and OAuth2-based token access.
-
-4)Event Logging: All alerts and breaches logged in MongoDB with timestamp and severity.
-
-5)Postman Validated: API endpoints tested and verified with Postman for functional correctness.
+1)System Metrics Monitoring: Continuously tracks CPU usage, memory usage, and response time for simulated agents
+2)Intelligent Alerting: Sends alerts when thresholds are breached for proactive incident response
+3)Secure API: JWT authentication and OAuth2-based token access
+4)Event Logging: All alerts and breaches logged in MongoDB with timestamp and severity
+5)Postman Validated: API endpoints tested and verified with Postman for functional correctness
 
 
 Tech Stack
-
 Backend Framework: FastAPI (Python)
-
 Database: MongoDB
-
 Security: JWT, OAuth2
-
 Testing Tools: Postman
-
 Others: Python Logging, Pydantic for validation
-
-
 
 
 Setup Instructions :-
