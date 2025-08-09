@@ -7,3 +7,4 @@ client = MongoClient(os.getenv("MONGO_URI"))
 db = client.monitoring_db
 events_collection = db.events
 users_collection = db.users
+
